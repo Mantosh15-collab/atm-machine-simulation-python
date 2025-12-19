@@ -25,8 +25,6 @@ This repository contains a console-based ATM Machine Simulation developed using 
 
 ## 🛠️ Tech Stack
 - **Language:** Python 3
-- **Tools:** Jupyter Notebook / VS Code / Command Prompt
+- **Tools:** Jupyter Notebook / VS Code / Command prompt
 
 ---
-
-## 📂 Folder Structure
